@@ -10,7 +10,7 @@ class Auth extends ChangeNotifier{
   List ?medecins;
   List ?pharmacists;
   List ?patients;
-  String baseurl = "192.168.21.46";
+  String baseurl = "192.168.142.240";
   Color primarycolor = Color.fromARGB(100, 233, 233, 233);
   Color secondarycolor = Color.fromARGB(249, 8, 27, 63);
   Color whitecolor = Colors.white;
